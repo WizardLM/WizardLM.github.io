@@ -50,7 +50,7 @@ export default function Home() {
                 </div>
               </Link>
 
-              <Link href="https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder">
+              <Link href="https://wizardlm.github.io/WizardCoder/">
                 <div className="">
                   <p className="text-2xl pb-1">WizardCoder</p>
                   <hr />
