@@ -43,5 +43,31 @@
         "link": "https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_V2_196k"
       }
     ]
+  },
+  {
+    "name": "Papers",
+    "entries": [
+      {
+        "name": "WizardLM",
+        "architecture": "",
+        "size": "",
+        "desc": "",
+        "link": "https://arxiv.org/abs/2304.12244"
+      },
+      {
+        "name": "WizardCoder",
+        "architecture": "",
+        "size": "",
+        "desc": "",
+        "link": "https://arxiv.org/abs/2306.08568"
+      },
+      {
+        "name": "WizardMath",
+        "architecture": "",
+        "size": "",
+        "desc": "",
+        "link": "https://arxiv.org/abs/2308.09583"
+      }
+    ]
   }
 ]
