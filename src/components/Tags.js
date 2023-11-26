@@ -37,7 +37,7 @@ export default function Tags(props) {
       <meta name="twitter:card" content="summary_large_image" />
 
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <meta name="theme-color" content="#1d1d1f" />
+      <meta name="theme-color" content="#6767b5" />
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
       <link rel="icon" href="/favicon.png" type="image/png" />
     </Head>
