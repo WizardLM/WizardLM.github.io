@@ -90,7 +90,7 @@ function Hamburger() {
       top: "0px",
     },
     bmMenu: {
-      background: "#1d1d1f",
+      background: "#6767b5",
       padding: "2.5em 1.5em 0",
     },
     bmMorphShape: {
