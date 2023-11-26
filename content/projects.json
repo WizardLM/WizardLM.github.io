@@ -29,18 +29,18 @@
     "name": "Datasets",
     "entries": [
       {
-        "name": "LMSYS-Chat-1M",
+        "name": "Evol-Instruct 70K",
         "architecture": "",
         "size": "",
-        "desc": "This dataset contains one million real-world conversations with 25 state-of-the-art LLMs.",
-        "link": "https://huggingface.co/datasets/lmsys/lmsys-chat-1m"
+        "desc": "This dataset contains 70K mixture evolved data of Alpaca and ShareGPT.",
+        "link": "https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_70k"
       },
       {
-        "name": "Chatbot Arena Conversations",
+        "name": "Evol-Instruct 196K",
         "architecture": "",
         "size": "",
-        "desc": "This dataset contains 33K cleaned conversations with pairwise human preferences collected on Chatbot Arena.",
-        "link": "https://huggingface.co/datasets/lmsys/chatbot_arena_conversations"
+        "desc": "This dataset contains 196K mixture evolved data of Alpaca and ShareGPT.",
+        "link": "https://huggingface.co/datasets/WizardLM/WizardLM_evol_instruct_V2_196k"
       }
     ]
   }
