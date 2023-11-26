@@ -9,7 +9,7 @@ body {
 
 ::selection {
   color: #f6f6f6;
-  background: #1d1d1f;
+  background: #6767b5;
 }
 
 div {
@@ -120,7 +120,7 @@ h6::after {
   content: "";
   flex: 1;
   height: 1px;
-  background-color: #1d1d1f;
+  background-color: #6767b5;
   margin-left: 0.5em;
 }
 
@@ -252,7 +252,7 @@ input {
 textarea::selection,
 input::selection {
   color: white !important;
-  background: #1d1d1f;
+  background: #6767b5;
 }
 
 a:hover {
