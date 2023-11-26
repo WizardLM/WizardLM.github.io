@@ -45,7 +45,7 @@ export default function Home() {
                   <p className="text-2xl pb-1">WizardLM</p>
                   <hr />
                   <p className="pt-2">
-                    WizardLM
+                    Empowering Large Language Models to Follow Complex Instructions
                   </p>
                 </div>
               </Link>
@@ -55,7 +55,7 @@ export default function Home() {
                   <p className="text-2xl pb-1">WizardCoder</p>
                   <hr />
                   <p className="pt-2">
-                    WizardCoder
+                    Empowering Code Large Language Models with Evol-Instruct
                   </p>
                 </div>
               </Link>
@@ -65,7 +65,7 @@ export default function Home() {
                   <p className="text-2xl pb-1">WizardMath</p>
                   <hr />
                   <p className="pt-2">
-                    WizardMath
+                    Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct
                   </p>
                 </div>
               </Link>
