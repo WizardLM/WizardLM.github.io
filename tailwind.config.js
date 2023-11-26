@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        sky: "#1d1d1f",
+        sky: "#6767b5",
         paper: "#F6F6F6"
       },
     },
