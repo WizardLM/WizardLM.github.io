@@ -23,12 +23,6 @@ export default function Nav() {
           <Link href="/projects">Projects</Link>
           <Link href="/blog">Blog</Link>
           <Link href="/about">About</Link>
-          // <a
-          //   href="https://arena.lmsys.org"
-          //   target="_blank"
-          //   rel="noopener noreferrer">
-          //   Chatbot Arena
-          // </a>
           {/* <Link href="/dataset-requests">Dataset Requests</Link> */}
         </div>
       </div>
@@ -61,13 +55,6 @@ export default function Nav() {
         >
           <FaTwitter />
         </a>
-        // <a
-        //   href="https://lmsys.org/rss.xml"
-        //   target="_blank"
-        //   rel="noopener noreferrer"
-        // >
-        //   <FaRss />
-        // </a>
       </div>
       <Hamburger />
     </div>
@@ -154,17 +141,6 @@ function Hamburger() {
             <p>
               <Link href="/about">About</Link>
             </p>
-            // <p>
-            //   <Link href="/donations">Donations</Link>
-            // </p>
-            // <p>
-            //   <a
-            //     href="https://arena.lmsys.org"
-            //     target="_blank"
-            //     rel="noopener noreferrer">
-            //     Chatbot Arena
-            //   </a>
-            // </p>
           </div>
           <div className="child:mr-3 pt-4 child:w-8 child:brightness-100 hover:child:brightness-90 child:transition flex">
            <a
@@ -195,13 +171,6 @@ function Hamburger() {
         >
           <FaTwitter />
         </a>
-            // <a
-            //   href="https://lmsys.org/rss.xml"
-            //   target="_blank"
-            //   rel="noopener noreferrer"
-            // >
-            //   <FaRss />
-            // </a>
           </div>
         </div>
       </Menu>
