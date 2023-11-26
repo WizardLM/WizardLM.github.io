@@ -21,7 +21,6 @@ export default function Nav() {
           child:brightness-100  child:transition"
         >
           <Link href="/projects">Projects</Link>
-          <Link href="/blog">Blog</Link>
           <Link href="/about">About</Link>
           {/* <Link href="/dataset-requests">Dataset Requests</Link> */}
         </div>
