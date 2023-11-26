@@ -1,6 +1,6 @@
 {
-  "name": "lmsysorg",
-  "version": "0.1.1",
+  "name": "wizardlm",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "rss": "node scripts/gen-rss.mjs",
