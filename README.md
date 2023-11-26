@@ -1,6 +1,6 @@
 # lmsys.org
 
-This repo hosts all the content within https://lmsys.org. 
+This repo hosts all the content within https://wizardlm.github.io 
 
 ## Develop and Deploy
 See the [package.json](./package.json)
@@ -31,4 +31,4 @@ Add a markdown file to `/blog` for it to be added in the blog feed. Make sure yo
 Some content is not sourced through Javascript, such as the about page, impressum, FAQ, and team list. For those, you can find their respective markdown and json files in `/content`
 
 # Acknowledgement
-The website is modified from the [laion.ai](https://github.com/LAION-AI/laion.ai.git), fully respecting [their license](https://github.com/LAION-AI/laion.ai/blob/main/LICENSE).
+The website is modified from the [laion.ai](https://github.com/LAION-AI/laion.ai.git) and [LMSYS](https://lmsys.org), fully respecting [their license](https://github.com/LAION-AI/laion.ai/blob/main/LICENSE).
