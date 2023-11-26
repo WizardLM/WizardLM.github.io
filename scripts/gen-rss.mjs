@@ -3,7 +3,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 import RSS from "rss";
 
-const rootUrl = "https://lmsys.org";
+const rootUrl = "https://WizardLM.github.io";
 const projectRoot = path.join(fileURLToPath(import.meta.url), "..", "..");
 
 /**
