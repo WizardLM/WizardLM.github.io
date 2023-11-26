@@ -13,7 +13,7 @@ export default function Nav() {
       <div>
         <Link href="/">
           <p className="text-4xl md:text-7xl cursor-pointer font-bold pl-0 md:pb-3">
-            LMSYS ORG
+            WizardLM
           </p>
         </Link>
         <div
@@ -23,52 +23,51 @@ export default function Nav() {
           <Link href="/projects">Projects</Link>
           <Link href="/blog">Blog</Link>
           <Link href="/about">About</Link>
-          <Link href="/donations">Donations</Link>
-          <a
-            href="https://arena.lmsys.org"
-            target="_blank"
-            rel="noopener noreferrer">
-            Chatbot Arena
-          </a>
+          // <a
+          //   href="https://arena.lmsys.org"
+          //   target="_blank"
+          //   rel="noopener noreferrer">
+          //   Chatbot Arena
+          // </a>
           {/* <Link href="/dataset-requests">Dataset Requests</Link> */}
         </div>
       </div>
       <div className="child:mr-3 -ml-0.5 child:w-8 child:brightness-100 child:transition hidden md:flex">
         <a
-          href="mailto:lmsys.org@gmail.com"
+          href="mailto:caxu@microsoft.com"
           target="_blank"
           rel="noopener noreferrer"
         >
         <FaEnvelope />
         </a>
         <a
-          href="https://discord.gg/HSWAKCrnFx"
+          href="https://discord.gg/VZjjHtWrKs"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaDiscord />
         </a>
         <a
-          href="https://github.com/lm-sys"
+          href="https://github.com/nlpxucan/WizardLM"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaGithub />
         </a>
         <a
-          href="https://twitter.com/lmsysorg"
+          href="https://twitter.com/WizardLM_AI"
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaTwitter />
         </a>
-        <a
-          href="https://lmsys.org/rss.xml"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FaRss />
-        </a>
+        // <a
+        //   href="https://lmsys.org/rss.xml"
+        //   target="_blank"
+        //   rel="noopener noreferrer"
+        // >
+        //   <FaRss />
+        // </a>
       </div>
       <Hamburger />
     </div>
@@ -155,54 +154,54 @@ function Hamburger() {
             <p>
               <Link href="/about">About</Link>
             </p>
-            <p>
-              <Link href="/donations">Donations</Link>
-            </p>
-            <p>
-              <a
-                href="https://arena.lmsys.org"
-                target="_blank"
-                rel="noopener noreferrer">
-                Chatbot Arena
-              </a>
-            </p>
+            // <p>
+            //   <Link href="/donations">Donations</Link>
+            // </p>
+            // <p>
+            //   <a
+            //     href="https://arena.lmsys.org"
+            //     target="_blank"
+            //     rel="noopener noreferrer">
+            //     Chatbot Arena
+            //   </a>
+            // </p>
           </div>
           <div className="child:mr-3 pt-4 child:w-8 child:brightness-100 hover:child:brightness-90 child:transition flex">
            <a
-              href="mailto:lmsys.org@gmail.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-            <FaEnvelope />
-            </a>
-            <a
-              href="https://discord.gg/HSWAKCrnFx"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaDiscord />
-            </a>
-            <a
-              href="https://github.com/lm-sys"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaGithub />
-            </a>
-            <a
-              href="https://twitter.com/lmsysorg"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaTwitter />
-            </a>
-            <a
-              href="https://lmsys.org/rss.xml"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <FaRss />
-            </a>
+          href="mailto:caxu@microsoft.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+        <FaEnvelope />
+        </a>
+        <a
+          href="https://discord.gg/VZjjHtWrKs"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaDiscord />
+        </a>
+        <a
+          href="https://github.com/nlpxucan/WizardLM"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaGithub />
+        </a>
+        <a
+          href="https://twitter.com/WizardLM_AI"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaTwitter />
+        </a>
+            // <a
+            //   href="https://lmsys.org/rss.xml"
+            //   target="_blank"
+            //   rel="noopener noreferrer"
+            // >
+            //   <FaRss />
+            // </a>
           </div>
         </div>
       </Menu>
