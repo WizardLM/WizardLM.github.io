@@ -14,7 +14,7 @@
         "architecture": "Base: Llama",
         "size": "Size: 7B, 34B",
         "desc": "A series of open-source chatbots for coding.",
-        "link": "https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder"
+        "link": "https://wizardlm.github.io/WizardCoder/"
       },
       {
         "name": "WizardMath",
