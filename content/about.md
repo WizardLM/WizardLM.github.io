@@ -7,11 +7,11 @@ WizardLM is a .
 ### Members
 
 **Researcher Team**  
-[Caxu](), [Qingfeng Sun](), [Kai Zheng](), [Pu Zhao]()
+[Can Xu](https://nlpxucan.github.io/), [Qingfeng Sun](https://victorsungo.github.io/), [Kai Zheng](https://robertmarton.github.io/), [Pu Zhao](https://www.microsoft.com/en-us/research/people/puzhao/)
 
 
 **Student Team**  
-[Ziyang Luo](), [Haipeng Luo]()
+[Ziyang Luo](https://chiyeunglaw.github.io/), [Haipeng Luo]()
 
 **Institutions**  
 Microsoft (MSR, New Bing, Azure)
