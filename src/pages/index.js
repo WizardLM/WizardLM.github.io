@@ -23,7 +23,7 @@ export default function Home() {
           <div className="w-auto md:pb-0 flex flex-col md:flex-row items-center gap-4 px-4 overflow-x-hidden">
             <div className="bg-sky text-paper border-white border p-3">
               <div className="flex justify-center">
-                <h1 className="text-8xl md:text-8xl font-bold">LMSYS Org</h1>
+                <h1 className="text-8xl md:text-8xl font-bold">WizardLM</h1>
                 {/*<div className="flex items-center">*/}
                 {/*  <img src={"/images/logo.svg"} className="pl-4 pb-1 h-16" />*/}
                 {/*</div>*/}
@@ -31,7 +31,7 @@ export default function Home() {
               <p className="italic pb-3">
               </p>
               <p className="pt-2 py-4 max-w-lg flex m-auto">
-                  The Large Model Systems Organization develops large models and systems that are open, accessible, and scalable.
+                  Empowering Large Pre-Trained Language Models to Follow Complex Instructions.
               </p>
             </div>
 
@@ -40,62 +40,42 @@ export default function Home() {
             child:h-full child:flex child:flex-col child:justify-center
                       child:border child:border-paper child:bg-sky child:text-paper child:p-3 child:max-w-[16rem] hover:child:bg-paper hover:child:text-sky child:transition-colors child:cursor-pointer child:mx-auto md:child:mx-0"
             >
-              <Link href="/blog/2023-03-30-vicuna">
+              <Link href="https://github.com/nlpxucan/WizardLM/tree/main">
                 <div className="">
-                  <p className="text-2xl pb-1">Vicuna</p>
+                  <p className="text-2xl pb-1">WizardLM</p>
                   <hr />
                   <p className="pt-2">
-                    A chatbot impressing GPT-4 with 90%* ChatGPT quality, available in 7B/13B/33B sizes.
+                    WizardLM
                   </p>
                 </div>
               </Link>
 
-              <Link href="https://chat.lmsys.org/">
+              <Link href="https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder">
                 <div className="">
-                  <p className="text-2xl pb-1">Chatbot Arena</p>
+                  <p className="text-2xl pb-1">WizardCoder</p>
                   <hr />
                   <p className="pt-2">
-                    Scalable and gamified evaluation of LLMs via crowdsourcing and Elo rating systems.
+                    WizardCoder
                   </p>
                 </div>
               </Link>
 
-              <Link href="https://github.com/lm-sys/FastChat">
+              <Link href="https://wizardlm.github.io/WizardMath">
                 <div className="">
-                  <p className="text-2xl pb-1">FastChat</p>
+                  <p className="text-2xl pb-1">WizardMath</p>
                   <hr />
                   <p className="pt-2">
-                    An open platform for training, serving, and evaluating LLM-based chatbots.
+                    WizardMath
                   </p>
                 </div>
               </Link>
 
-              <Link href="https://huggingface.co/datasets/lmsys/lmsys-chat-1m">
+              <Link href="https://github.com/nlpxucan/WizardLM/tree/main/Evol_Instruct">
                 <div className="">
-                  <p className="text-2xl pb-1">LMSYS-Chat-1M</p>
+                  <p className="text-2xl pb-1">Evol-Instruct</p>
                   <hr />
                   <p className="pt-2">
-                    A large-scale real-world LLM conversation dataset.
-                  </p>
-                </div>
-              </Link>
-
-              <Link href="https://github.com/lm-sys/FastChat/tree/main/fastchat/llm_judge">
-                <div className="">
-                  <p className="text-2xl pb-1">MT-Bench</p>
-                  <hr />
-                  <p className="pt-2">
-                    A set of challenging, multi-turn, and open-ended questions for evaluating chatbots.
-                  </p>
-                </div>
-              </Link>
-
-              <Link href="https://github.com/DachengLi1/LongChat">
-                <div className="">
-                  <p className="text-2xl pb-1">LongChat</p>
-                  <hr />
-                  <p className="pt-2">
-                    A chatbot supporting 16K context length, available in 7B and 13B sizes.
+                    Evol-Instruct.
                   </p>
                 </div>
               </Link>
