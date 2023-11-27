@@ -6,7 +6,7 @@ WizardLM is an AI research team, our long-term mission is to build AGI for human
 
 
 **Institutions**  
-Microsoft (MSR, New Bing, Azure)
+Microsoft (MSR, New Bing, Azure).
 
 
 ### Contact us
