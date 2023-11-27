@@ -7,12 +7,12 @@ export default function Home() {
     <div className="w-full flex justify-center py-5 pt-16 md:pt-5">
       <Tags
         title="Projects"
-        desc="WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions."
+        desc="WizardLM: Empowering Large Language Models to Follow Complex Instructions."
       />
       <div className="container px-5">
         <h1 className="text-7xl md:text-8xl font-bold">PROJECTS</h1>
         <div className="text-2xl pb-4">
-            WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions.
+            WizardLM: Empowering Large Language Models to Follow Complex Instructions.
         </div>
         <hr className="mb-5 mt-2 md:hidden" />
         {projects.map((item, i) => {
