@@ -45,6 +45,18 @@
     ]
   },
   {
+    "name": "Evaluation",
+    "entries": [
+      {
+        "name": "WizardEval",
+        "architecture": "",
+        "size": "",
+        "desc": "This test set contains 218 diverse and difficult real-world human instructions with 29 skills.",
+        "link": "https://github.com/nlpxucan/WizardLM/blob/main/WizardLM/data/WizardLM_testset.jsonl"
+      }
+    ]
+  },
+  {
     "name": "Papers",
     "entries": [
       {
