@@ -54,14 +54,6 @@ export default function Nav() {
         >
           <FaTwitter />
         </a>
-        <a
-          href="https://huggingface.co/WizardLM"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FaHuggingFace />
-        </a>
-            
       </div>
       <Hamburger />
     </div>
