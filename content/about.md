@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-WizardLM is a .
+WizardLM Team is an open-source research community, our long-term mission is to build AGI for humanity and the world. We now foucs on large language model pre-training and post-alignment.
 
 ### Members
 
