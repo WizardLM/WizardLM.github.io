@@ -75,6 +75,7 @@ export default function Home() {
                   <p className="text-2xl pb-1">Evol-Instruct</p>
                   <hr />
                   <p className="pt-2">
+                  Instructions evolution.
                   </p>
                 </div>
               </Link>
