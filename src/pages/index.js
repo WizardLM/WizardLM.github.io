@@ -31,7 +31,7 @@ export default function Home() {
               <p className="italic pb-3">
               </p>
               <p className="pt-2 py-4 max-w-lg flex m-auto">
-                  Empowering Large Pre-Trained Language Models to Follow Complex Instructions.
+                  Empowering Large Language Models to Follow Complex Instructions.
               </p>
             </div>
 
@@ -45,7 +45,7 @@ export default function Home() {
                   <p className="text-2xl pb-1">WizardLM</p>
                   <hr />
                   <p className="pt-2">
-                    Empowering Large Language Models to Follow Complex Instructions
+                    Follow complex instructions via Evol-Instruct
                   </p>
                 </div>
               </Link>
@@ -55,7 +55,7 @@ export default function Home() {
                   <p className="text-2xl pb-1">WizardCoder</p>
                   <hr />
                   <p className="pt-2">
-                    Empowering Code Large Language Models with Evol-Instruct
+                    Code Evol-Instruct
                   </p>
                 </div>
               </Link>
@@ -65,7 +65,7 @@ export default function Home() {
                   <p className="text-2xl pb-1">WizardMath</p>
                   <hr />
                   <p className="pt-2">
-                    Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct
+                    RLEIF
                   </p>
                 </div>
               </Link>
@@ -75,7 +75,6 @@ export default function Home() {
                   <p className="text-2xl pb-1">Evol-Instruct</p>
                   <hr />
                   <p className="pt-2">
-                    Evol-Instruct.
                   </p>
                 </div>
               </Link>
