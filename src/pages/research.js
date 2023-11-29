@@ -1,6 +1,6 @@
 import Tags from "../components/Tags";
 import Link from "next/link";
-import projects from "../../content/projects.json";
+import projects from "../../content/research.json";
 
 export default function Home() {
   return (
