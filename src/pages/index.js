@@ -31,7 +31,7 @@ export default function Home() {
               <p className="italic pb-3">
               </p>
               <p className="pt-2 py-4 max-w-lg flex m-auto">
-                  Empowering Large Language Models to Follow Complex Instructions
+                  Build AGI for Humanity and the World.
               </p>
             </div>
 
