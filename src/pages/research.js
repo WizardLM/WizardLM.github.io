@@ -1,6 +1,6 @@
 import Tags from "../components/Tags";
 import Link from "next/link";
-import projects from "../../content/research.json";
+import research from "../../content/research.json";
 
 export default function Home() {
   return (
@@ -10,12 +10,12 @@ export default function Home() {
         desc="WizardLM: Empowering Large Language Models to Follow Complex Instructions."
       />
       <div className="container px-5">
-        <h1 className="text-7xl md:text-8xl font-bold">PROJECTS</h1>
+        <h1 className="text-7xl md:text-8xl font-bold">RESEARCH</h1>
         <div className="text-2xl pb-4">
             WizardLM: Empowering Large Language Models to Follow Complex Instructions.
         </div>
         <hr className="mb-5 mt-2 md:hidden" />
-        {projects.map((item, i) => {
+        {research.map((item, i) => {
           return (
             <div key={i}>
               <h3 className={"pb-4 " + (i === 0 ? "pt-0" : "pt-5")}>
