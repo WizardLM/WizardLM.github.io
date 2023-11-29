@@ -20,8 +20,8 @@ export default function Nav() {
           className="md:flex child:pl-3 md:text-xl child:md:pl-1 child:md:pt-2 hidden md:flex-col 
           child:brightness-100  child:transition"
         >
-          <Link href="/research">Research</Link>
           <Link href="/projects">Projects</Link>
+          <Link href="/research">Research</Link>
           <Link href="/about">About</Link>
           {/* <Link href="/dataset-requests">Dataset Requests</Link> */}
         </div>
